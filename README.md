@@ -17,3 +17,5 @@ The final project hides all of the compnents except for the servo motor and the 
 ### Files
  - .ino - c++ code that controls the arduino
  - .brd - Electrical model of the breadboard circuit (made on tinkercad)
+
+Take a peak at how I made it in journal.md
