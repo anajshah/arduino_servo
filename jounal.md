@@ -3,6 +3,7 @@
 First time breadboarding! I made a project and modeled it on tinker cad for you guys to see.
  - The .brd file is the electrical model
  - the .ino is the programmed part
+
 I started the day deciding I wanted to try bread boarding because I saw it on Instagram and thought it was cool. I had a Uno R3 kit from a hackathon that I had never opened. I learnt how to bread board by using google and youtube!
 I decided I wanted to make a kinematic sculpture with metal so I started the breadboard by using an uno r3, a joystick, and a servo motor.
 After connecting them I started learning c++ (code can be seen in .ino).
