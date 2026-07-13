@@ -1,4 +1,5 @@
 # First Arduino project!
+![Actual breadboard model](bread_image.png)
 ![Tinker breadboard model](servo_model.png)
 Submission to outpost
 For this project I used a breadboard, servo motor, uno r3, and joystick to create a moving butterfly. \n 
