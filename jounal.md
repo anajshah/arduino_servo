@@ -7,5 +7,6 @@ I started the day deciding I wanted to try bread boarding because I saw it on In
 I decided I wanted to make a kinematic sculpture with metal so I started the breadboard by using an uno r3, a joystick, and a servo motor.
 After connecting them I started learning c++ (code can be seen in .ino).
 I was able to connect my arduino to my computer after 1 hour of trying different adapters and unfortunatly my breadboarding was not correct. After moving the wires around I got it to work pretty quickly.
-
+!(IMG_3118.HEIC)
 I then tried to make the sculture out of metal but realized that my wire was too flexable and would bend out of shape when the motor was turned on. I decided to switch it and turn it into a butterfly!
+!(IMG_3119.HEIC)
